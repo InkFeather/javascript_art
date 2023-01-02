@@ -1,0 +1,23 @@
+{
+  "name": "javascript_art",
+  "version": "1.0.0",
+  "description": "Domestika course exercices about javascript art coding",
+  "scripts": {
+    "start": "canvas-sketch"
+  },
+  "author": {
+    "name": "Jean-Noël Gisbert",
+    "email": "jn.gisbert@ecomail.fr"
+  },
+  "keywords": [
+    "kavascript",
+    "art"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "canvas-sketch": "^0.7.6",
+    "canvas-sketch-cli": "^1.11.20",
+    "canvas-sketch-util": "^1.10.0"
+  }
+}
